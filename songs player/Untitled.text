@@ -1,0 +1,19 @@
+// let index = 1;
+    // for (const song of songs) {
+    //     let cleanSong = song.replaceAll("%20", " ").replace(/^128-/, ""); // Remove "%20" and "128-" at the start
+
+    //     let li = document.createElement("li");
+    //     li.innerHTML = `<span style="font-weight: bold; color: whit;">${index}.</span> ${cleanSong}`;
+
+    //     // Add inline styles for color and design
+    //     li.style.fontSize = "18px";
+    //     li.style.color = "white";
+    //     li.style.backgroundColor = "#121212";
+    //     li.style.padding = "10px";
+    //     // li.style.margin = "5px 0";
+    //     // li.style.borderRadius = "5px";
+    //     li.style.listStyle = "none"; // Hide default list numbering
+
+    //     songsul.appendChild(li);
+    //     index++; // Increment number
+    // }
